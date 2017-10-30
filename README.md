@@ -1,5 +1,5 @@
 
-<p align="center" style="font-size:30px; font-weight:700">CrypticBrain Framework <br> <span style="font-size:18px; font-weight:800">Private Framework of CrypticBrain Company</span></p>
+<p align="center" style="font-size:30px !important; font-weight:700">CrypticBrain Framework <br> <span style="font-size:18px; font-weight:800">Private Framework of CrypticBrain Company</span></p>
 
 
 ---
