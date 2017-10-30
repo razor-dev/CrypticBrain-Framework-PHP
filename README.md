@@ -1,11 +1,10 @@
 
-#<p align="center">CrypticBrain Framework</p>
+##<p align="center">CrypticBrain Framework</p>
 
-<p align="center">
-Private Framework of CrypticBrain Company
-</p>
+####<p align="center">Private Framework of CrypticBrain Company</p>
 
-## About CrypticBrain Framework
+
+### About CrypticBrain Framework
 
 CrypticBrain is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. CrypticBrain attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
 
@@ -19,10 +18,10 @@ CrypticBrain is a web application framework with expressive, elegant syntax. We 
 
 CrypticBrain Framework is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation gives you a complete toolset required to build any application with which you are tasked.
 
-## Learning CrypticBrain Framework
+### Learning CrypticBrain Framework
 
 CrypticBrain Framework documentation coming soon!
 
-## License
+### License
 
 The CrypticBrain framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
