@@ -1,0 +1,29 @@
+/* icons */
+@font-face {
+    font-family: 'IcoMoon';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/IcoMoon/IcoMoon.eot');
+    src: url('../fonts/IcoMoon/IcoMoon.svg#IcoMoon') format('svg'),
+    url('../fonts/IcoMoon/IcoMoon.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/IcoMoon/IcoMoon.woff') format('woff'),
+    url('../fonts/IcoMoon/IcoMoon.ttf') format('truetype');
+}
+
+[data-icon]:before {
+    content: attr(data-icon);
+    font-family: 'IcoMoon';
+    font-weight: normal;
+    text-transform: none;
+    font-variant: normal;
+    font-style: normal !important;
+}
+
+[class^="icon-"]:before {
+    font-family: 'IcoMoon';
+    font-weight: normal;
+    text-transform: none;
+    font-variant: normal;
+    font-style: normal;
+}
+/* end: icons */

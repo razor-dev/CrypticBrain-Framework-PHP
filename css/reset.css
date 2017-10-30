@@ -1,0 +1,15 @@
+/* reset */
+html, body {height: 100%;}
+* {margin: 0;padding: 0;outline: none;}
+*::selection {color: rgb(255,255,255);background: rgb(87, 41, 193);}
+.right-float {float: right !important;}
+.left-float{float: left !important;}
+.no-display{display: none;}
+.no-space{margin: 0px !important;}
+.no-border{border: none !important;}
+.transition{-webkit-transition: all 0.05s ease-in-out;-moz-transition: all 0.05s ease-in-out;transition: all 0.05s ease-in-out;}
+a {font-size: 13px; color: rgb(59, 89, 152); cursor: pointer; text-decoration: none;}
+a:hover {text-decoration: underline;}
+::-webkit-scrollbar {width: 5px;}
+::-webkit-scrollbar-track {background-color: rgba(0, 0, 0, 0.15);}
+::-webkit-scrollbar-thumb {background-color: rgba(0, 0, 0, 0.5);}
