@@ -1,7 +1,7 @@
 
-##<p align="center">CrypticBrain Framework</p>
+<p align="center">CrypticBrain Framework</p>
 
-####<p align="center">Private Framework of CrypticBrain Company</p>
+<p align="center">Private Framework of CrypticBrain Company</p>
 
 
 ### About CrypticBrain Framework
